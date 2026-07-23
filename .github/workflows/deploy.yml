@@ -45,4 +45,3 @@ jobs:
           source: .
           # ubuntu os가 세팅된 ec2 서버의 /home/ubuntu/projects/*.* 복사
           target: "/home/ubuntu/projects"
-
